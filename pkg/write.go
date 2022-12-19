@@ -8,7 +8,7 @@ import (
 
 
 func WriteToFile(s [][]string) {
-	f, err := os.Create("test.csv")
+	f, err := os.Create("output.csv")
 	defer f.Close()
 	if err != nil {
 
