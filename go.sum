@@ -1,0 +1,4 @@
+github.com/dslipak/pdf v0.0.1 h1:Kz587BqrBPelWFrblnAFg4jXOY0R6JN3U7U6iwJ2Ae4=
+github.com/dslipak/pdf v0.0.1/go.mod h1:2L3SnkI9cQwnAS9gfPz2iUoLC0rUZwbucpbKi5R1mUo=
+github.com/ledongthuc/pdf v0.0.0-20220302134840-0c2507a12d80 h1:6Yzfa6GP0rIo/kULo2bwGEkFvCePZ3qHDDTC3/J9Swo=
+github.com/ledongthuc/pdf v0.0.0-20220302134840-0c2507a12d80/go.mod h1:imJHygn/1yfhB7XSJJKlFZKl/J+dCPAknuiaGOshXAs=
