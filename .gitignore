@@ -1,0 +1,3 @@
+PutAllPDFFilesHere/
+*.csv
+echo .DS_Store >> .gitignore
